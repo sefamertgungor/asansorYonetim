@@ -1,2 +1,2 @@
 # asansorYonetim
-![Rapor][https://github.com/sefamertgungor/asansorYonetim/blob/main/Rapor.docx]
+[Rapor](https://github.com/sefamertgungor/asansorYonetim/blob/main/Rapor.docx)
